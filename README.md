@@ -1,4 +1,22 @@
-Team Members:
+<div align="center">
+  <h1 align="center">Object-Detection</h1>
+  <p align="center">
+    <strong>Object detection models and computer vision pipelines.</strong>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/github/license/CoderFatherBB/Object-Detection?style=flat-square&color=007ec6" alt="License">
+    <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Object-Detection?style=flat-square&color=007ec6" alt="Repo Size">
+    <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Object-Detection?style=flat-square&color=007ec6" alt="Last Commit">
+  </p>
+</div>
+
+---
+
+## 📖 Overview
+
+Welcome to the **Object-Detection** repository. Object detection models and computer vision pipelines.
+
+### Existing Documentation\n\nTeam Members:
 
 Saumya Shah - [Saumya Shah - LinkedIn](https://www.linkedin.com/in/saumya-shah-9b2579273/)
 
@@ -33,4 +51,46 @@ Results/Findings
 - No Misclassification: There are no off-diagonal elements, indicating that there were no misclassifications between the 'Ring' and 'background' classes.
 - Model Performance: This result indicates an excellent model performance on the test set, with no false positives or false negatives.
 - Balanced Dataset: The normalized matrix suggests that both classes have been handled well, assuming the dataset is balanced.
-- Overall, the confusion matrix demonstrates the model's effectiveness, accurately classifying the given image classes.
+- Overall, the confusion matrix demonstrates the model's effectiveness, accurately classifying the given image classes.\n
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the necessary environment setup to run or build the project. Depending on the repository's technology stack, you may need:
+- Standard language compilers/interpreters (e.g., Python, C++, Java).
+- Required frameworks and libraries as per the codebase.
+
+### Installation & Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/CoderFatherBB/Object-Detection.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Object-Detection
+   ```
+3. Run or execute the relevant files as per the language standards.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/CoderFatherBB/Object-Detection/issues).
+
+---
+
+## 👤 Author
+
+**Bhavin Baldota**
+
+- LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
+- GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
+
+---
+<div align="center">
+  <sub>Made with ❤️ by Bhavin Baldota</sub>
+</div>
